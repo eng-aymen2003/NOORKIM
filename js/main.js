@@ -1,9 +1,7 @@
-
-onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('U desrve all the flowers in the world').split('')
+    const titles = ('NOORA...U DESRVE ALL THE FLOWERS IN THE WORLD').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
