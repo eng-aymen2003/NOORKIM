@@ -4,7 +4,6 @@ onload = () => {
     document.body.classList.remove("not-loaded");
 
     const titles = ('تباهت بك الازهار ياسيدة الورد').split('')
-    const titles = ('فلتكوني بخير...دائما').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
